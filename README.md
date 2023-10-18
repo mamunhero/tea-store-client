@@ -1,5 +1,7 @@
 # React + Vite
-
+# live link
+# client side link: https://coffee-store-7d6df.web.app
+# server side link: https://tea-store-server-ijzpdnby4-mamunhero.vercel.app
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
